@@ -1,7 +1,7 @@
 # chilling
 ## Practicas y demás weas raras
 
-### Autore:
+### Autores:
 - @Alexgv1108  
 - @Elcricito
 
